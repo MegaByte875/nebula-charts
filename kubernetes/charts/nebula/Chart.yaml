@@ -17,5 +17,5 @@ maintainers:
     url: https://github.com/kqzh
 name: nebula
 sources:
-  - https://github.com/MegaByte875/nebula-docker-compose/kubernetes
+  - https://github.com/MegaByte875/nebula-charts/kubernetes
 version: 2.0.0
