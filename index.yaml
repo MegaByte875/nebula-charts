@@ -3,9 +3,9 @@ entries:
   nebula:
   - apiVersion: v1
     appVersion: v2.0.0
-    created: "2021-02-18T10:53:35.241448115+08:00"
+    created: "2021-02-18T14:02:50.310034499+08:00"
     description: Official Nebula Graph Helm chart for Kubernetes
-    digest: 24f6549ccf4e5a5294b9c6e917fb9937ed8c0709af88b70a12add2a118822c59
+    digest: 75c74699a47bb50ad828a3eb30dbeaa922c8895055d1a1b05eed0f948d316370
     home: https://nebula-graph.io
     icon: https://github.com/vesoft-inc/nebula/raw/master/docs/logo.png
     keywords:
@@ -22,8 +22,8 @@ entries:
       url: https://github.com/kqzh
     name: nebula
     sources:
-    - https://github.com/MegaByte875/nebula-docker-compose/kubernetes
+    - https://github.com/vesoft-inc/nebula
     urls:
-    - https://megabyte875.github.io/nebula-docker-compose/nebula-v2.0.0.tgz
+    - https://megabyte875.github.io/nebula-charts/nebula-v2.0.0.tgz
     version: v2.0.0
-generated: "2021-02-18T10:53:35.239866683+08:00"
+generated: "2021-02-18T14:02:50.308322848+08:00"
