@@ -55,7 +55,7 @@ replication:
   metad:
     replicas: 3
   graphd:
-    replicas: 2
+    replicas: 3
 
 port:
   graphd:
